@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import ipdb
+import ipdb # importing ipdb library when app runs; Similar to imports in js:
 
 def tracing_the_function():
     inside_the_function = "We're inside the function"
